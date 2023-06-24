@@ -1,0 +1,53 @@
+**old prompt:**
+2015:
+
+ok: 632
+notok: 390
+precision: 0.62
+f1 socre: 0.76
+
+**new prompt:**
+
+2015:
+
+ok: 684
+notok: 338
+precision: 0.669
+f1 score: 0.802
+
+2007:
+
+ok: 225
+notok: 230
+precision: 0.495
+f1 socre: 0.661
+
+2013:
+
+ok: 1126
+notok: 518
+precision: 0.685
+f1 socre: 0.813
+
+custom_data:
+
+GPT-3:
+
+ok: 29
+notok: 16
+precision: 0.644
+f1 socre: 0.784
+
+GPT-4:
+
+ok: 36
+notok: 9
+precision: 0.800
+f1 socre: 0.889
+
+BERT-WSD:
+
+ok: 31
+notok: 14
+precision: 0.689
+f1 socre:0.816
